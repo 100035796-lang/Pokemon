@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Wailord extends PokemonInfo{
 	
 	public Wailord () {
-		super("Blastoise", "Water", 362, Arrays.asList(new Attack("Hydro Pump", "Water", 120), new Attack("Bite", "Dark", 60), new Attack("Tackle", "Normal", 50), new Attack("Flash Cannon", "Steel", 80)));
+		super("Wailord", "Water", 544, Arrays.asList(new Attack("Water Gun", "Water", 40), new Attack("Rollout", "Ground", 30), new Attack("Astonish", "Ghost", 30), new Attack("Body Slam", "Normal", 1000000)));
 		  
 	}
 

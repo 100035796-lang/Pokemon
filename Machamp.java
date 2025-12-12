@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Machamp extends PokemonInfo{
 	
 	public Machamp () {
-		super("Blastoise", "Water", 362, Arrays.asList(new Attack("Hydro Pump", "Water", 120), new Attack("Bite", "Dark", 60), new Attack("Tackle", "Normal", 50), new Attack("Flash Cannon", "Steel", 80)));
+		super("Machamp", "Fighting", 384, Arrays.asList(new Attack("Karate Chop", "Fighting", 50), new Attack("Low Sweep", "Fighting", 60), new Attack("Wake-Up Slap", "Fighting", 60), new Attack("Cross Chop", "Fighting", 80)));
 		  
 	}
 

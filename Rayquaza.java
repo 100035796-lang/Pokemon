@@ -4,8 +4,9 @@ import java.util.Arrays;
 public class Rayquaza extends PokemonInfo{
 	
 	public Rayquaza () {
-		super("Blastoise", "Water", 362, Arrays.asList(new Attack("Hydro Pump", "Water", 120), new Attack("Bite", "Dark", 60), new Attack("Tackle", "Normal", 50), new Attack("Flash Cannon", "Steel", 80)));
+		super("Rayquaza", "Dragon, Flying", 414, Arrays.asList(new Attack("Twister", "Dragon", 40), new Attack("Fly", "Flying", 90), new Attack("Crunch", "Dark", 80), new Attack("Ancient Dragon", "Rock", 60)));
 		  
 	}
 
 }
+	
